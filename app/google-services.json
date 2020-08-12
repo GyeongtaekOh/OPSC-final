@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "428490887362",
+    "firebase_url": "https://opsc-test1.firebaseio.com",
+    "project_id": "opsc-test1",
+    "storage_bucket": "opsc-test1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428490887362:android:aab048cd6ecfa0988fab5b",
+        "android_client_info": {
+          "package_name": "com.example.greenhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428490887362-h35huehead6s234lr8p5276a1a97m31k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.greenhealth",
+            "certificate_hash": "df0dc4006505c70ebffb6a56370c595c2df45f68"
+          }
+        },
+        {
+          "client_id": "428490887362-oth8k5o60l075n3uf1j7hob63kidpf64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArs_m1toxka0lgTtTa9_voImyhLE0prL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428490887362-oth8k5o60l075n3uf1j7hob63kidpf64.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
